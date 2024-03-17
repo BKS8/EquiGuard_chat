@@ -1,16 +1,17 @@
-# flash_chat
+# equi_guard
 
 a chatting app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+this project has a login/signup page
+also with google authorization
 
-A few resources to get you started if this is your first Flutter project:
+a basic chat app built for organization servers
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+by logining you will directly join the group(your company community)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+where you can text freely...until you exceed the company policy
+
+if you use toxic substance in text...the text will be flagged and will show "text is toxic" instead of text message.
+
